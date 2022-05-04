@@ -18,3 +18,4 @@ ggplot(data = tonnage) +
   ylab("Tonnage") +
   ylim(0, 4000) +
   theme_minimal()
+  #-10 which 90/100
